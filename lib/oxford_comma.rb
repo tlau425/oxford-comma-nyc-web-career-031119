@@ -1,5 +1,5 @@
 def oxford_comma(array)
 array.join
 array.join (" and ")
-array) + ", and " + array[-1]
+array[0..-2]nd " + array[-1]
 end
